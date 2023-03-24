@@ -16,13 +16,7 @@ This is a simple Todo list web app built using ReactJS.
 
 ## Dependencies
 
-This project uses the following dependencies:
-
-- React v17.0.2
-- ReactDOM v17.0.2
-- uuid v8.3.2
-- prop-types v15.7.2
-- react-icons v4.2.0
+This project was built using ReactJS.
 
 ## License
 
